@@ -1,0 +1,14 @@
+*.png
+*.xlsx
+Archive Output/
+Archive Responses/
+Error Files/
+.ipynb_checkpoints/
+old_output_rs/
+old RS versions/
+output_rs/
+output_rs (copy)/
+RS_FEEDBACK/
+RS_responses/
+RS_responses (copy)/
+
